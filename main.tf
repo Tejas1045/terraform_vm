@@ -9,3 +9,4 @@ resource "aws_instance" "vm" {
     Name = "my-first-tf-node"
   }
 }
+#.............................................
